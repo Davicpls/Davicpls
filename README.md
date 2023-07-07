@@ -1,4 +1,4 @@
-# __Olá, bem-vindo ao meu GitHub!__ 👋
+# __Olá__ 👋
 
 Me chamo Davi Coelho Peixoto e aqui é onde eu compartilho os projetos que estou trabalhando e os que já completei. Comecei minha jornada na programação em meados de 2022 com Python e desde então, tenho me aprofundado em diversas tecnologias, explorando suas capacidades e aprimorando minhas habilidades.
 
