@@ -33,4 +33,5 @@ Sinta-se à vontade para entrar em contato comigo se tiver alguma dúvida sobre 
 - [LinkedIn](https://www.linkedin.com/in/davicpls/)
 - [Instagram](https://www.instagram.com/davicpls/)
 
-__Obrigado por visitar meu GitHub!__
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact)](https://github.com/seuusername/github-readme-stats)
+
