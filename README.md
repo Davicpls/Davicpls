@@ -23,11 +23,12 @@ Estagiei no BTG Pactual, uma experiência que foi extremamente enriquecedora. Ti
 - AWS CloudFormation
 - AWS DynamoDB
 - 
-## Trabalhar com essas tecnologias tem me proporcionado uma compreensão prática da criação, implementação e manutenção de sistemas complexos, bem como a gestão de infraestrutura na nuvem.
+ Trabalhar com essas tecnologias tem me proporcionado uma compreensão prática da criação, implementação e manutenção de sistemas complexos, bem como a gestão de infraestrutura na nuvem.
 
 ### __Links__
 - [LinkedIn](https://www.linkedin.com/in/davicpls/)
 - [Instagram](https://www.instagram.com/davicpls/)
+- [Portfolio](https://davicpls.github.io/minimalist_portfolio/)
 
 ![Metrics](https://github.com/Davicpls/Davicpls/blob/main/github-metrics.svg)
 
